@@ -1,0 +1,53 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: larger;
+
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+
+body {
+    
+}
+
+/**************************** class************************/
+
+.outter-container {
+    border-radius: 20px;
+    padding: 35px 20px;
+    background-color: rgb(247, 247, 247);
+    margin: auto;
+    width: 300px;
+}
+
+
+.top-container {
+    margin: auto;
+    padding-top: 10px;
+
+    
+}
+
+.top-container img {
+    margin: auto;
+    display: block;
+    width: 95%;
+}
+
+
+.bottom-container {
+    margin: auto;
+    position: relative;
+    padding-top: 30px;
+    line-height: 1.5;
+}
+
+.qr-code {
+    width: 50%;
+    border-radius: 20px;
+}
